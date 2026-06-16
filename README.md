@@ -1,4 +1,3 @@
-<!doctype html>
 <html
   lang="en"
   data-ws-project="fbf79f6b-18d5-454e-9a07-b0d3d1e63e67"
