@@ -1,2 +1,1 @@
-# Starcadiaa.github.io
-munch website
+If you read this ur cringe
