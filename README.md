@@ -25,7 +25,6 @@
       content="/assets/social_GM45VvfwMLsmZ10Md3TJX.png"
     />
     <meta property="twitter:card" content="summary_large_image" />
-    <title>Home</title>
   </head>
   <body class="w-body">
     <div class="w-box cyipvbi c5dctb4 cx65m9u c7eym0q c1ue03rr">
